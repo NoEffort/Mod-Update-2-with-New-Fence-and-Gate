@@ -9,7 +9,7 @@ public class RegistryHandler
 {
 	public static void Client()
 	{
-		
+		RecipeHandler.registerFurnaceRecipes();
 	}
 	
 	public static void Common()
